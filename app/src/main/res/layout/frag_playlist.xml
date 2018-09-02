@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        style="@style/TextView_For_Activity"
+        android:text="@string/action_frag_playlist" />
+
+    <TextView
+        style="@style/TextView_to_describe_the_activity"
+        android:text="@string/frag_playlist_drscribtion" />
+
+    <Button
+        android:id="@+id/buyAlbums_playlists"
+        style="@style/buy_button"
+        android:text="@string/buy_albums" />
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

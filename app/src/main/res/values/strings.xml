@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+
+    <string name="activity_nowplaying_title">Now playing</string>
+
+    <string name="activity_album">Albums Activity</string>
+    <string name="activity_main">Main Activity</string>
+    <string name="activity_nowplaying">Now Playing Activity</string>
+    <string name="photo_loaded_using_bumptech_library">Images loaded using bumptech library (External library) used to load Images from the URL</string>
+
+    <string name="song1_url">https&#58;&#47;&#47;firebasestorage&#46;googleapis&#46;com&#47;v0&#47;b&#47;arabic&#45;3a33f&#46;appspot&#46;com&#47;o&#47;song1&#46;png&#63;alt&#61;media&#38;token&#61;40e69da8&#45;be05&#45;4da3&#45;861d&#45;36e11854a37e</string>
+    <string name="song2_url">https&#58;&#47;&#47;firebasestorage&#46;googleapis&#46;com&#47;v0&#47;b&#47;arabic&#45;3a33f&#46;appspot&#46;com&#47;o&#47;song2&#46;png&#63;alt&#61;media&#38;token&#61;a79ac180&#45;0c72&#45;4daa&#45;a3f5&#45;7eb31ef428e0</string>
+    <string name="song3_url">https&#58;&#47;&#47;firebasestorage&#46;googleapis&#46;com&#47;v0&#47;b&#47;arabic&#45;3a33f&#46;appspot&#46;com&#47;o&#47;song3&#46;png&#63;alt&#61;media&#38;token&#61;e571c726&#45;5800&#45;4fb8&#45;a6aa&#45;d3db3e263ac8</string>
+    <string name="song4_url">https&#58;&#47;&#47;firebasestorage&#46;googleapis&#46;com&#47;v0&#47;b&#47;arabic&#45;3a33f&#46;appspot&#46;com&#47;o&#47;song4&#46;png&#63;alt&#61;media&#38;token&#61;d7514de8&#45;7a39&#45;4898&#45;bac3&#45;c81744537301</string>
+
+
+    <string name="tab_playlist">Playlists</string>
+    <string name="tab_artist">Artists</string>
+    <string name="tab_album">Albums</string>
+    <string name="tab_song">Songs</string>
+
+    <string name="song_1">Song 1</string>
+    <string name="song_2">Song 2</string>
+    <string name="song_3">Song 3</string>
+    <string name="song_4">Song 4</string>
+    <string name="artist_1">Artist 1</string>
+    <string name="artist_2">Artist 2</string>
+    <string name="album_1">Album 1</string>
+    <string name="album_2">Album 2</string>
+    <string name="playlist_1">Playlist 1</string>
+    <string name="playlist_2">Playlist 2</string>
+
+    <string name="action_activity_nowplaying">Will use MediaPlayer to play music</string>
+    <string name="action_frag_album">Fragment for Albums</string>
+    <string name="action_frag_artist">Fragment for Artists</string>
+    <string name="action_frag_playlist">Fragment for Playlists</string>
+    <string name="action_frag_song">Fragment for Songs</string>
+
+    <string name="album_drscribtion">This activity shows a list of albums</string>
+    <string name="frag_album_drscribtion">This fragment shows a list of albums</string>
+    <string name="frag_artist_drscribtion">This fragment shows a list of artists</string>
+    <string name="frag_playlist_drscribtion">This fragment shows a list of playlists</string>
+    <string name="frag_song_drscribtion">This fragment shows a list of songs</string>
+    <string name="buy_albums">Buy Full Albums</string>
+
+    <string name="payment_name">Payment Activity</string>
+    <string name="payment_description">This activity use Google In App Billing library</string>
+    <string name="buy_album_1">Buy Album 1</string>
+    <string name="buy_album_2">Buy Album 2</string>
+    <string name="return_to_main">Return to media player</string>
+    <string name="library_description">In this Activity, I am using the Google In-App Billing to purchase full albums, this library needs itegration with playstore.</string>
+
+</resources>
